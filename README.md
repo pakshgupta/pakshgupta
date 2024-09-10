@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ecommerce-website](https://github.com/pakshgupta/ecommerce-website.git)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Web Sockets**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://pakshgupta.onrender.com/)
 
