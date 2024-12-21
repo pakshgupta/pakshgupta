@@ -5,17 +5,17 @@
 <img align="right" alt="Coding" width="400 " src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pakshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="pakshgupta" /> </p>
 
-- 🔭 I’m currently working on [chat-application](https://github.com/pakshgupta/chat_application.git)
+- 🔭 I’m currently working on [Blog-Quest](https://github.com/pakshgupta/Blog-Quest.git)
 
 - 🌱 I’m currently learning **Web Sockets**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://pakshgupta.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pakshguptaportfolio.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **pakshgupta007@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ttbjpPegjHWWc2Ew0z0Lyqm_dwhIMfoL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gq5yZEwknRiIb6LW7Mbcy29yAac1szSB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
