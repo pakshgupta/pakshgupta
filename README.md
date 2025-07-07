@@ -1,33 +1,105 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
-<h1 align="center">Hi 👋, I'm Paksh Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<img align="right" alt="Coding" width="400 " src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pakshgupta&label=Profile%20views&color=0e75b6&style=flat" alt="pakshgupta" /> </p>
-
-- 🔭 I’m currently working on [Blog-Quest](https://github.com/pakshgupta/Blog-Quest.git)
-
-- 🌱 I’m currently learning **Web Sockets**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://pakshguptaportfolio.vercel.app/)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **pakshgupta007@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gq5yZEwknRiIb6LW7Mbcy29yAac1szSB/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/paksh-gupta-053724212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pakshgupta" height="30" width="40" /></a>
-<a href="https://leetcode.com/_Paksh_Gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pakshgupta" height="30" width="40" /></a>
+<h1 align="center">Hey, I'm Paksh Gupta 👋</h1>
+<p align="center">
+  <b>Full-Stack Developer</b> | <b>Open Source Contributor</b> | <b>MERN + AI Integrator</b>
+</p>
+<p align="center">
+  Building performant web apps, smart AI tools, and contributing to open-source with 💙
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pakshgupta&show_icons=true&locale=en&layout=compact" alt="pakshgupta" /></p>
+### 💡 About Me
 
+- 🔭 Currently building at **TehriHills** – crafting smart dashboards with AI-powered insights
+- 🌱 Constantly exploring **open-source**, **developer tooling**, and **AI integrations**
+- 🛠️ Strong focus on **developer experience**, **modular architecture**, and **performance optimization**
+- 📚 I believe learning by building > tutorial hell
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pakshgupta&" alt="pakshgupta" /></p>
+### 🚀 Featured Projects
+
+#### 🛒 Nexa Shop – Modern E-commerce Platform  
+**Stack:** `React`, `TypeScript`, `Redux Toolkit`, `Express`, `MongoDB`, `Stripe`
+
+> A feature-rich footwear store with blazing-fast state management, secure payments, and delightful UX.
+
+- 🌀 Optimized API flow with Redux Toolkit Query
+- 💳 Integrated Stripe Checkout with error handling
+- 🔥 Caching and performance boost for smoother experience
+
+[🔗 Live Demo](https://pakshguptaportfolio.vercel.app) | [📂 Source Code](https://github.com/PakshGupta)
+
+---
+
+#### 🌍 Smart Nav Plus – AI-powered Travel Planner  
+**Stack:** `React`, `Google Maps API`, `Travel Advisor API`, `JavaScript`
+
+> Discover attractions, restaurants, weather, and fuel costs — all in one map-based platform.
+
+- 📍 Dynamic location-based filtering
+- 🌤️ Real-time weather forecasting
+- ⛽ Smart cost estimation for budget planning
+
+---
+
+### 🧠 I Love Working With
+
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />
+</p>
+
+---
+
+### 🛠️ My Dev Toolbox
+
+- **Frontend:** React.js, Redux Toolkit, Context API, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express, MongoDB, MySQL, REST APIs, JWT
+- **Other:** Git, Postman, VS Code, Stripe API, Google Maps API
+
+---
+
+### 🌍 My GitHub Journey
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PakshGupta&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PakshGupta&theme=radical" width="48%" />
+</p>
+
+<!-- Top Langs -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PakshGupta&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
+
+### 📢 Let’s Collaborate
+
+- 🔍 Looking to contribute to open-source React-based tools
+- 🫱 Always open to collaboration on real-world problems
+-  🧠 Interested in AI + Open Source synergy
+
+> 💬 Feel free to connect, collaborate, or just say hello!
+
+---
+
+### 📫 Where to Find Me
+
+<p align="left">
+  <a href="mailto:pakshgupta.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paksh-gupta"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://pakshguptaportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is read more than it's written — write for the next dev.”</i><br/>
+  🌟 Star some projects, fork something cool, or just explore!
+</p>
