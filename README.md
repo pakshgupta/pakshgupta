@@ -28,11 +28,11 @@
 - 💳 Integrated Stripe Checkout with error handling
 - 🔥 Caching and performance boost for smoother experience
 
-[🔗 Live Demo](https://pakshguptaportfolio.vercel.app) | [📂 Source Code](https://github.com/pakshgupta)
+[🔗 Live Demo](https://nexashop.netlify.app)
 
 ---
 
-#### 🌍 Smart Nav Plus – AI-powered Travel Planner  
+#### 🌍 Smart Nav Plus – Your Travel Planner  
 **Stack:** `React`, `Google Maps API`, `Travel Advisor API`, `JavaScript`
 
 > Discover attractions, restaurants, weather, and fuel costs — all in one map-based platform.
@@ -41,12 +41,15 @@
 - 🌤️ Real-time weather forecasting
 - ⛽ Smart cost estimation for budget planning
 
+[🔗 Live Demo](https://smartnav-plus.netlify.app) 
+
 ---
 
 ### 🧠 I Love Working With
 
 <p>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -58,7 +61,7 @@
 
 ### 🛠️ My Dev Toolbox
 
-- **Frontend:** React.js, Redux Toolkit, Context API, Tailwind CSS, TypeScript
+- **Frontend:** React.js, Redux Toolkit, Context API, Tailwind CSS, JavaScript, TypeScript
 - **Backend:** Node.js, Express, MongoDB, MySQL, REST APIs, JWT
 - **Other:** Git, Postman, VS Code, Stripe API, Google Maps API
 
