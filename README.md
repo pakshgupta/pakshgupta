@@ -68,8 +68,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pakshgupta&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pakshgupta&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pakshgupta&show_icons=true&theme=radical" width="48%" height="190px"/ >
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pakshgupta&theme=radical" width="48%" height="195px" />
 </p>
 
 <!-- Top Langs -->
