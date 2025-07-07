@@ -28,7 +28,7 @@
 - 💳 Integrated Stripe Checkout with error handling
 - 🔥 Caching and performance boost for smoother experience
 
-[🔗 Live Demo](https://pakshguptaportfolio.vercel.app) | [📂 Source Code](https://github.com/PakshGupta)
+[🔗 Live Demo](https://pakshguptaportfolio.vercel.app) | [📂 Source Code](https://github.com/pakshgupta)
 
 ---
 
@@ -68,13 +68,13 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PakshGupta&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PakshGupta&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pakshgupta&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pakshgupta&theme=radical" width="48%" />
 </p>
 
 <!-- Top Langs -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PakshGupta&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakshgupta&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
