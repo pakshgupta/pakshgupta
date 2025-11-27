@@ -97,7 +97,7 @@
 <p align="left">
   <a href="mailto:pakshgupta.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/paksh-gupta"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://pakshguptaportfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.pakshgupta.in/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
