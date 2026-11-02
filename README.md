@@ -1,108 +1,100 @@
-<h1 align="center">Hey, I'm Paksh Gupta 👋</h1>
-<p align="center">
-  <b>Full-Stack Developer</b> | <b>Open Source Contributor</b> | <b>MERN + AI Integrator</b>
-</p>
-<p align="center">
-  Building performant web apps, smart AI tools, and contributing to open-source with 💙
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I'm+Paksh+Gupta+%F0%9F%91%8B;Full-Stack+Engineer+%C2%B7+AI+Products;TypeScript+%C2%B7+Node.js+%C2%B7+LLM+Agents" alt="Typing intro" />
 
-### 💡 About Me
+<p><i>I build AI products that work in production: grounded in real data, with guardrails, fallbacks and costs I can track.</i></p>
 
-- 🔭 Currently building at **TehriHills** – crafting smart dashboards with AI-powered insights
-- 🌱 Constantly exploring **open-source**, **developer tooling**, and **AI integrations**
-- 🛠️ Strong focus on **developer experience**, **modular architecture**, and **performance optimization**
-- 📚 I believe learning by building > tutorial hell
+<a href="https://www.pakshgupta.in/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" /></a>
+<a href="https://www.linkedin.com/in/paksh-gupta"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
+<a href="mailto:pakshgupta007@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" /></a>
+<a href="https://medium.com/@pakshgupta007"><img src="https://img.shields.io/badge/Medium-1a1b27?style=for-the-badge&logo=medium&logoColor=7aa2f7" /></a>
+<a href="https://leetcode.com/u/_Paksh_Gupta/"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=7aa2f7" /></a>
 
----
+</div>
 
-### 🚀 Featured Projects
+<br/>
 
-#### 🛒 Nexa Shop – Modern E-commerce Platform  
-**Stack:** `React`, `TypeScript`, `Redux Toolkit`, `Express`, `MongoDB`, `Stripe`
+### About me
 
-> A feature-rich footwear store with blazing-fast state management, secure payments, and delightful UX.
+```ts
+const paksh = {
+  role:      "Software Developer @ TehriHills",
+  building:  ["AI survey automation (Claude + RAG)", "analytics dashboards"],
+  focus:     ["LLM agents", "backend systems", "production AI"],
+  enjoys:    "figuring out why things work, not just that they do",
+  openTo:    "full-stack & AI engineering roles",
+};
+```
 
-- 🌀 Optimized API flow with Redux Toolkit Query
-- 💳 Integrated Stripe Checkout with error handling
-- 🔥 Caching and performance boost for smoother experience
+<br/>
 
-[🔗 Live Demo](https://nexashop.netlify.app)
+### Featured projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://voyger-ai.pakshgupta.in/"><img src="https://www.pakshgupta.in/projects/voyager.png" alt="Voyager" /></a>
+      <h3><a href="https://voyger-ai.pakshgupta.in/">Voyager</a></h3>
+      <p>AI travel planner that builds day-by-day itineraries from live hotel, restaurant, route and weather data, checks them against your budget and waits for your approval.</p>
+      <ul>
+        <li>LangGraph agent with human-in-the-loop approvals</li>
+        <li>OpenAI → Claude fallback gateway shared by 7 agents</li>
+        <li>BullMQ reminders on the destination's time zone</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-1a1b27?style=flat-square&logo=nestjs&logoColor=E0234E" />
+        <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=47A248" />
+        <img src="https://img.shields.io/badge/Redis-1a1b27?style=flat-square&logo=redis&logoColor=DC382D" />
+      </p>
+      <a href="https://voyger-ai.pakshgupta.in/"><b>Live demo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://insightpilot.pakshgupta.in/"><img src="https://www.pakshgupta.in/projects/insightpilot.png" alt="InsightPilot" /></a>
+      <h3><a href="https://insightpilot.pakshgupta.in/">InsightPilot</a></h3>
+      <p>Upload a CSV, get a dashboard instantly, then ask questions in plain English and get back a chart, an explanation and the SQL behind it.</p>
+      <ul>
+        <li>Text-to-SQL pipeline built on LangGraph</li>
+        <li>Query validation blocks destructive SQL</li>
+        <li>Cache and fast path, so only the long tail hits the LLM</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express-1a1b27?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=4169E1" />
+        <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-1a1b27?style=flat-square&logo=redis&logoColor=DC382D" />
+      </p>
+      <a href="https://insightpilot.pakshgupta.in/"><b>Live demo →</b></a>
+    </td>
+  </tr>
+</table>
 
-#### 🌍 Smart Nav Plus – Your Travel Planner  
-**Stack:** `React`, `Google Maps API`, `Travel Advisor API`, `JavaScript`
+<br/>
 
-> Discover attractions, restaurants, weather, and fuel costs — all in one map-based platform.
-
-- 📍 Dynamic location-based filtering
-- 🌤️ Real-time weather forecasting
-- ⛽ Smart cost estimation for budget planning
-
-[🔗 Live Demo](https://smartnav-plus.netlify.app) 
-
----
-
-### 🧠 I Love Working With
-
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />
-</p>
-
----
-
-### 🛠️ My Dev Toolbox
-
-- **Frontend:** React.js, Redux Toolkit, Context API, Tailwind CSS, JavaScript, TypeScript
-- **Backend:** Node.js, Express, MongoDB, MySQL, REST APIs, JWT
-- **Other:** Git, Postman, VS Code, Stripe API, Google Maps API
-
----
-
-### 🌍 My GitHub Journey
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pakshgupta&show_icons=true&theme=radical" width="48%" height="190px"/ >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pakshgupta&theme=radical" width="48%" height="195px" />
-</p>
-
-<!-- Top Langs -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pakshgupta&layout=compact&theme=radical" width="40%" />
-</p>
-
----
-
-### 📢 Let’s Collaborate
-
-- 🔍 Looking to contribute to open-source React-based tools
-- 🫱 Always open to collaboration on real-world problems
--  🧠 Interested in AI + Open Source synergy
-
-> 💬 Feel free to connect, collaborate, or just say hello!
-
----
-
-### 📫 Where to Find Me
-
-<p align="left">
-  <a href="mailto:pakshgupta.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/paksh-gupta"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.pakshgupta.in/"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
-
----
+### Tech stack
 
 <p align="center">
-  <i>“Code is read more than it's written — write for the next dev.”</i><br/>
-  🌟 Star some projects, fork something cool, or just explore!
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nodejs,nestjs,express,graphql&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,githubactions,vercel,git,postman&theme=dark" /><br/><br/>
+  <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-1a1b27?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/BullMQ-1a1b27?style=for-the-badge&logoColor=white" />
 </p>
+
+<br/>
+
+### Writing
+
+- [REST API caching: invalidation and multi-layer optimization with Redis](https://medium.com/@pakshgupta007/rest-api-caching-explained-techniques-invalidation-and-multi-layer-optimization-with-redis-4dc8230ba619)
+- [How authentication actually works in Amazon Cognito](https://medium.com/@pakshgupta007/how-authentication-actually-works-in-amazon-cognito-without-the-aws-confusion-d81d5ca61f8a)
+- [How to integrate AI into your web app using React](https://medium.com/@pakshgupta007/how-to-integrate-ai-into-your-web-app-using-react-with-a-free-api-302e2d4c4b77)
+
+<br/>
+
+<div align="center">
+  <sub>Most of my work lives in private repos. Happy to walk through the code on a call.</sub>
+</div>
